@@ -1,0 +1,57 @@
+12:41:04.627 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@173373b4: 0 ms
+14:26:47.775 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\16 sept\Opencartv121\master.xml
+
+14:26:52.200 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Starting  TC001_AccountRegistrationTest********************
+14:26:52.312 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyACC link
+14:26:52.696 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+14:26:52.698 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:26:53.802 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+14:26:53.843 [main] ERROR testCases.TC001_AccountRegistrationTest - test failed...
+14:27:23.980 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\16 sept\Opencartv121\master.xml
+
+14:27:30.151 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Starting  TC001_AccountRegistrationTest********************
+14:27:30.424 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyACC link
+14:27:30.892 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+14:27:30.894 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:27:31.931 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+14:27:31.960 [main] ERROR testCases.TC001_AccountRegistrationTest - test failed...
+14:28:00.962 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\16 sept\Opencartv121\master.xml
+
+14:28:06.444 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Starting  TC001_AccountRegistrationTest********************
+14:28:06.711 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyACC link
+14:28:07.130 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+14:28:07.131 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:28:08.250 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+14:28:08.265 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest***********
+14:32:29.146 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\16 sept\Opencartv121\crossbrowsertesting.xml
+
+14:32:35.373 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Starting  TC001_AccountRegistrationTest********************
+14:32:35.667 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyACC link
+14:32:36.006 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+14:32:36.008 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:32:37.074 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+14:32:37.095 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest***********
+14:32:46.766 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Starting  TC001_AccountRegistrationTest********************
+14:32:46.893 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyACC link
+14:32:47.281 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+14:32:47.281 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:32:48.433 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+14:32:48.461 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest***********
+14:32:50.903 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Starting  TC001_AccountRegistrationTest********************
+14:32:51.013 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyACC link
+14:32:51.394 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+14:32:51.394 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:32:52.562 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+14:32:52.598 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest***********
+14:33:38.746 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\16 sept\Opencartv121\crossbrowsertesting.xml
+
+14:33:41.773 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **********Starting  TC001_AccountRegistrationTest********************
+14:33:42.161 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyACC link
+14:33:42.950 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+14:33:42.954 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:33:45.067 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
